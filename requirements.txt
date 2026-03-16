@@ -1,0 +1,7 @@
+flask
+python-socketio
+python-socketio[client]
+google-cloud-translate
+pysrt
+python-dotenv
+flask-cors
